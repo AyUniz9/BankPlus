@@ -1,0 +1,6 @@
+name: BankPlus
+version: '${project.version}'
+main: me.niz.bankplus.BankPlus
+api-version: 1.18
+authors: [ Niz ]
+description: Bank plugin
